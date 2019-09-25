@@ -17,7 +17,7 @@
 
 - 재생이 끝난 뒤에 아무것도 하지않으면 3초뒤에 현재 비디오를 다시 재생한다.
 
-![비디오리스트](https://k.kakaocdn.net/dn/cxnUVc/btqyzb8NPsw/psEyskH0EWE9SCXDmRSJo0/img.gif)
+![비디오리스트](https://github.com/kimchunyong/video_play_list/blob/master/ezgif.com-resize.gif)
 
 video_list.js
 
